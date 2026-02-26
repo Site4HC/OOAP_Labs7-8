@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\OOAP\\Lab7\\Lab7_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|d:\\university\\ooap\\lab7\\lab7_1\\lab8_8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|solutionrelative:lab8_8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|d:\\university\\ooap\\lab7\\lab7_1\\lab8_8\\dateparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|solutionrelative:lab8_8\\dateparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|d:\\university\\ooap\\lab7\\lab7_1\\lab8_8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|solutionrelative:lab8_8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|d:\\university\\ooap\\lab7\\lab7_1\\lab8_8\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|solutionrelative:lab8_8\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|d:\\university\\ooap\\lab7\\lab7_1\\lab8_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|solutionrelative:lab8_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|d:\\university\\ooap\\lab7\\lab7_1\\lab8_8\\separatorexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|solutionrelative:lab8_8\\separatorexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|d:\\university\\ooap\\lab7\\lab7_1\\lab8_8\\yearexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|solutionrelative:lab8_8\\yearexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|d:\\university\\ooap\\lab7\\lab7_1\\lab8_8\\monthexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|solutionrelative:lab8_8\\monthexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|d:\\university\\ooap\\lab7\\lab7_1\\lab8_8\\dayexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|solutionrelative:lab8_8\\dayexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|d:\\university\\ooap\\lab7\\lab7_1\\lab8_8\\datecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|solutionrelative:lab8_8\\datecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|d:\\university\\ooap\\lab7\\lab7_1\\lab8_8\\iexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43914EEA-1666-4300-8EE3-346702F251DE}|Lab8_8\\Lab8_8.csproj|solutionrelative:lab8_8\\iexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\Program.cs",
+              "RelativeDocumentMoniker": "Lab8_8\\Program.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\Program.cs",
+              "RelativeToolTip": "Lab8_8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:07:54.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab8_8\\Form1.Designer.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab8_8\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:07:40.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab8_8\\Form1.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\Form1.cs",
+              "RelativeToolTip": "Lab8_8\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:07:28.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateParser.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\DateParser.cs",
+              "RelativeDocumentMoniker": "Lab8_8\\DateParser.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\DateParser.cs",
+              "RelativeToolTip": "Lab8_8\\DateParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:07:10.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeparatorExpression.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\SeparatorExpression.cs",
+              "RelativeDocumentMoniker": "Lab8_8\\SeparatorExpression.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\SeparatorExpression.cs",
+              "RelativeToolTip": "Lab8_8\\SeparatorExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:06:52.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "YearExpression.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\YearExpression.cs",
+              "RelativeDocumentMoniker": "Lab8_8\\YearExpression.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\YearExpression.cs",
+              "RelativeToolTip": "Lab8_8\\YearExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:06:34.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MonthExpression.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\MonthExpression.cs",
+              "RelativeDocumentMoniker": "Lab8_8\\MonthExpression.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\MonthExpression.cs",
+              "RelativeToolTip": "Lab8_8\\MonthExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:06:20.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DayExpression.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\DayExpression.cs",
+              "RelativeDocumentMoniker": "Lab8_8\\DayExpression.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\DayExpression.cs",
+              "RelativeToolTip": "Lab8_8\\DayExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:06:02.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DateContext.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\DateContext.cs",
+              "RelativeDocumentMoniker": "Lab8_8\\DateContext.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\DateContext.cs",
+              "RelativeToolTip": "Lab8_8\\DateContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:05:46.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab8_8\\Form1.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab8_8\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:04:43.79Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IExpression.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\IExpression.cs",
+              "RelativeDocumentMoniker": "Lab8_8\\IExpression.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_1\\Lab8_8\\IExpression.cs",
+              "RelativeToolTip": "Lab8_8\\IExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:05:23.879Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+D:\University\OOAP\Lab7\Lab7_8\bin\Debug\net9.0-windows\Lab7_8.exe
+D:\University\OOAP\Lab7\Lab7_8\bin\Debug\net9.0-windows\Lab7_8.deps.json
+D:\University\OOAP\Lab7\Lab7_8\bin\Debug\net9.0-windows\Lab7_8.runtimeconfig.json
+D:\University\OOAP\Lab7\Lab7_8\bin\Debug\net9.0-windows\Lab7_8.dll
+D:\University\OOAP\Lab7\Lab7_8\bin\Debug\net9.0-windows\Lab7_8.pdb
+D:\University\OOAP\Lab7\Lab7_8\obj\Debug\net9.0-windows\SmartRoomApp.MainForm.resources
+D:\University\OOAP\Lab7\Lab7_8\obj\Debug\net9.0-windows\Lab7_8.csproj.GenerateResource.cache
+D:\University\OOAP\Lab7\Lab7_8\obj\Debug\net9.0-windows\Lab7_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\OOAP\Lab7\Lab7_8\obj\Debug\net9.0-windows\Lab7_8.AssemblyInfoInputs.cache
+D:\University\OOAP\Lab7\Lab7_8\obj\Debug\net9.0-windows\Lab7_8.AssemblyInfo.cs
+D:\University\OOAP\Lab7\Lab7_8\obj\Debug\net9.0-windows\Lab7_8.csproj.CoreCompileInputs.cache
+D:\University\OOAP\Lab7\Lab7_8\obj\Debug\net9.0-windows\Lab7_8.sourcelink.json
+D:\University\OOAP\Lab7\Lab7_8\obj\Debug\net9.0-windows\Lab7_8.dll
+D:\University\OOAP\Lab7\Lab7_8\obj\Debug\net9.0-windows\refint\Lab7_8.dll
+D:\University\OOAP\Lab7\Lab7_8\obj\Debug\net9.0-windows\Lab7_8.pdb
+D:\University\OOAP\Lab7\Lab7_8\obj\Debug\net9.0-windows\Lab7_8.genruntimeconfig.cache
+D:\University\OOAP\Lab7\Lab7_8\obj\Debug\net9.0-windows\ref\Lab7_8.dll
