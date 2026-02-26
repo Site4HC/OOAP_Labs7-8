@@ -38,6 +38,19 @@ namespace DateInterpreterSimulation.Services
                 context.ErrorMessage = "Рядок містить зайві символи в кінці.";
             }
 
+            if (context.IsValid)
+            {
+                try
+                {
+                    var realDate = new DateTime(context.Year, context.Month, context.Day);
+                }
+                catch (ArgumentOutOfRangeException)
+                {
+                    context.IsValid = false;
+                    context.ErrorMessage = "Такої дати не існує в календарі (наприклад, 31 лютого).";
+                }
+            }
+
             return context;
         }
     }

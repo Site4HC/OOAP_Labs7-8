@@ -30,3 +30,4 @@ D:\University\OOAP\Lab7\Lab8_8\obj\Debug\net9.0-windows\refint\Lab8_8.dll
 D:\University\OOAP\Lab7\Lab8_8\obj\Debug\net9.0-windows\Lab8_8.pdb
 D:\University\OOAP\Lab7\Lab8_8\obj\Debug\net9.0-windows\Lab8_8.genruntimeconfig.cache
 D:\University\OOAP\Lab7\Lab8_8\obj\Debug\net9.0-windows\ref\Lab8_8.dll
+D:\University\OOAP\Lab7\Lab8_8\obj\Debug\net9.0-windows\Lab8_8.sourcelink.json
