@@ -1,19 +1,20 @@
 using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace MovieScraperApp
 {
     public partial class Form1 : Form
     {
-        private readonly ScraperService _scraperService;
-        private readonly string _baseUrl = "https://toloka.to/viewforum.php?f=16&start=";
+        private readonly MovieController _controller;
 
         public Form1()
         {
             InitializeComponent();
-            _scraperService = new ScraperService();
+
+            var httpClient = HttpClientFactory.Create();
+            var scraper = new ScraperService(httpClient);
+
+            _controller = new MovieController(scraper);
         }
 
         private async void btnStart_Click(object sender, EventArgs e)
@@ -21,31 +22,20 @@ namespace MovieScraperApp
             btnStart.Enabled = false;
             listBoxMovies.Items.Clear();
 
-            int pagesToLoad = 4;
-            int itemsPerPage = 30;
-            var tasks = new List<Task>();
-
-            for (int i = 0; i < pagesToLoad; i++)
+            try
             {
-                int pageIndex = i;
-                tasks.Add(Task.Run(async () =>
+                var movies = await _controller.LoadMoviesAsync(4);
+
+                foreach (var movie in movies)
                 {
-                    await Task.Delay(pageIndex * 2000);
-
-                    string targetUrl = $"{_baseUrl}{pageIndex * itemsPerPage}";
-                    List<MovieModel> movies = await _scraperService.GetMoviesFromPageAsync(targetUrl, pageIndex + 1);
-
-                    this.Invoke((MethodInvoker)delegate
-                    {
-                        foreach (var movie in movies)
-                        {
-                            listBoxMovies.Items.Add($"[Сторінка {movie.PageIndex}] {movie.Title}");
-                        }
-                    });
-                }));
+                    listBoxMovies.Items.Add($"[Сторінка {movie.PageIndex}] {movie.Title}");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
             }
 
-            await Task.WhenAll(tasks);
             btnStart.Enabled = true;
         }
     }
