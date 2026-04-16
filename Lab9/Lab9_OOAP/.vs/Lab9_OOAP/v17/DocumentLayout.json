@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\OOAP\\Lab9\\Lab9_OOAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4D9E79-7E8F-4D7F-978C-36D072AB8986}|Lab8_OOAP\\Lab9_OOAP.csproj|d:\\university\\ooap\\lab9\\lab9_ooap\\lab8_ooap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4D9E79-7E8F-4D7F-978C-36D072AB8986}|Lab8_OOAP\\Lab9_OOAP.csproj|solutionrelative:lab8_ooap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4D9E79-7E8F-4D7F-978C-36D072AB8986}|Lab8_OOAP\\Lab9_OOAP.csproj|d:\\university\\ooap\\lab9\\lab9_ooap\\lab8_ooap\\auctioneer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4D9E79-7E8F-4D7F-978C-36D072AB8986}|Lab8_OOAP\\Lab9_OOAP.csproj|solutionrelative:lab8_ooap\\auctioneer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4D9E79-7E8F-4D7F-978C-36D072AB8986}|Lab8_OOAP\\Lab9_OOAP.csproj|d:\\university\\ooap\\lab9\\lab9_ooap\\lab8_ooap\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4D9E79-7E8F-4D7F-978C-36D072AB8986}|Lab8_OOAP\\Lab9_OOAP.csproj|solutionrelative:lab8_ooap\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4D9E79-7E8F-4D7F-978C-36D072AB8986}|Lab8_OOAP\\Lab9_OOAP.csproj|d:\\university\\ooap\\lab9\\lab9_ooap\\lab8_ooap\\iauctionsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4D9E79-7E8F-4D7F-978C-36D072AB8986}|Lab8_OOAP\\Lab9_OOAP.csproj|solutionrelative:lab8_ooap\\iauctionsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4D9E79-7E8F-4D7F-978C-36D072AB8986}|Lab8_OOAP\\Lab9_OOAP.csproj|d:\\university\\ooap\\lab9\\lab9_ooap\\lab8_ooap\\iauctionobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4D9E79-7E8F-4D7F-978C-36D072AB8986}|Lab8_OOAP\\Lab9_OOAP.csproj|solutionrelative:lab8_ooap\\iauctionobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab9\\Lab9_OOAP\\Lab8_OOAP\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab8_OOAP\\Form1.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab9\\Lab9_OOAP\\Lab8_OOAP\\Form1.cs",
+              "RelativeToolTip": "Lab8_OOAP\\Form1.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:28:22.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab9\\Lab9_OOAP\\Lab8_OOAP\\Participant.cs",
+              "RelativeDocumentMoniker": "Lab8_OOAP\\Participant.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab9\\Lab9_OOAP\\Lab8_OOAP\\Participant.cs",
+              "RelativeToolTip": "Lab8_OOAP\\Participant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:28:09.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auctioneer.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab9\\Lab9_OOAP\\Lab8_OOAP\\Auctioneer.cs",
+              "RelativeDocumentMoniker": "Lab8_OOAP\\Auctioneer.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab9\\Lab9_OOAP\\Lab8_OOAP\\Auctioneer.cs",
+              "RelativeToolTip": "Lab8_OOAP\\Auctioneer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:27:52.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuctionSubject.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab9\\Lab9_OOAP\\Lab8_OOAP\\IAuctionSubject.cs",
+              "RelativeDocumentMoniker": "Lab8_OOAP\\IAuctionSubject.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab9\\Lab9_OOAP\\Lab8_OOAP\\IAuctionSubject.cs",
+              "RelativeToolTip": "Lab8_OOAP\\IAuctionSubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:27:39.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuctionObserver.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab9\\Lab9_OOAP\\Lab8_OOAP\\IAuctionObserver.cs",
+              "RelativeDocumentMoniker": "Lab8_OOAP\\IAuctionObserver.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab9\\Lab9_OOAP\\Lab8_OOAP\\IAuctionObserver.cs",
+              "RelativeToolTip": "Lab8_OOAP\\IAuctionObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:27:23.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

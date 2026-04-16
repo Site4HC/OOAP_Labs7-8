@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "D:\\University\\OOAP\\Lab7\\Lab7_9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|d:\\university\\ooap\\lab7\\lab7_9\\employeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|solutionrelative:employeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|d:\\university\\ooap\\lab7\\lab7_9\\editorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|solutionrelative:editorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|d:\\university\\ooap\\lab7\\lab7_9\\tasktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|solutionrelative:tasktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|d:\\university\\ooap\\lab7\\lab7_9\\layoutmakerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|solutionrelative:layoutmakerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|d:\\university\\ooap\\lab7\\lab7_9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|d:\\university\\ooap\\lab7\\lab7_9\\editorialtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|solutionrelative:editorialtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|d:\\university\\ooap\\lab7\\lab7_9\\designerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|solutionrelative:designerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|d:\\university\\ooap\\lab7\\lab7_9\\editorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|solutionrelative:editorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|d:\\university\\ooap\\lab7\\lab7_9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|d:\\university\\ooap\\lab7\\lab7_9\\employeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|solutionrelative:employeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|d:\\university\\ooap\\lab7\\lab7_9\\layoutmakerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|solutionrelative:layoutmakerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|d:\\university\\ooap\\lab7\\lab7_9\\tasktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|solutionrelative:tasktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|d:\\university\\ooap\\lab7\\lab7_9\\designerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287FBBB-0BF0-FAC5-6FA1-722281286461}|Lab7_9.csproj|solutionrelative:designerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_9\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_9\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T17:40:14.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "EditorialTask.cs",
               "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_9\\EditorialTask.cs",
               "RelativeDocumentMoniker": "EditorialTask.cs",
@@ -76,20 +76,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "EmployeeHandler.cs",
               "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_9\\EmployeeHandler.cs",
               "RelativeDocumentMoniker": "EmployeeHandler.cs",
               "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_9\\EmployeeHandler.cs",
               "RelativeToolTip": "EmployeeHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T17:40:00.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EditorHandler.cs",
               "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_9\\EditorHandler.cs",
               "RelativeDocumentMoniker": "EditorHandler.cs",
@@ -102,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DesignerHandler.cs",
               "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_9\\DesignerHandler.cs",
               "RelativeDocumentMoniker": "DesignerHandler.cs",
@@ -115,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LayoutMakerHandler.cs",
               "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_9\\LayoutMakerHandler.cs",
               "RelativeDocumentMoniker": "LayoutMakerHandler.cs",
@@ -128,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "TaskType.cs",
               "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_9\\TaskType.cs",
               "RelativeDocumentMoniker": "TaskType.cs",

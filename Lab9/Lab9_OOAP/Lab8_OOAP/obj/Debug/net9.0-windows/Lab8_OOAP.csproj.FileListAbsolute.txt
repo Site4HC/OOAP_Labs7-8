@@ -1,0 +1,16 @@
+D:\University\OOAP\Lab8\Lab8_OOAP\Lab8_OOAP\bin\Debug\net9.0-windows\Lab8_OOAP.exe
+D:\University\OOAP\Lab8\Lab8_OOAP\Lab8_OOAP\bin\Debug\net9.0-windows\Lab8_OOAP.deps.json
+D:\University\OOAP\Lab8\Lab8_OOAP\Lab8_OOAP\bin\Debug\net9.0-windows\Lab8_OOAP.runtimeconfig.json
+D:\University\OOAP\Lab8\Lab8_OOAP\Lab8_OOAP\bin\Debug\net9.0-windows\Lab8_OOAP.dll
+D:\University\OOAP\Lab8\Lab8_OOAP\Lab8_OOAP\bin\Debug\net9.0-windows\Lab8_OOAP.pdb
+D:\University\OOAP\Lab8\Lab8_OOAP\Lab8_OOAP\obj\Debug\net9.0-windows\AuctionApp.Form1.resources
+D:\University\OOAP\Lab8\Lab8_OOAP\Lab8_OOAP\obj\Debug\net9.0-windows\Lab8_OOAP.csproj.GenerateResource.cache
+D:\University\OOAP\Lab8\Lab8_OOAP\Lab8_OOAP\obj\Debug\net9.0-windows\Lab8_OOAP.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\OOAP\Lab8\Lab8_OOAP\Lab8_OOAP\obj\Debug\net9.0-windows\Lab8_OOAP.AssemblyInfoInputs.cache
+D:\University\OOAP\Lab8\Lab8_OOAP\Lab8_OOAP\obj\Debug\net9.0-windows\Lab8_OOAP.AssemblyInfo.cs
+D:\University\OOAP\Lab8\Lab8_OOAP\Lab8_OOAP\obj\Debug\net9.0-windows\Lab8_OOAP.csproj.CoreCompileInputs.cache
+D:\University\OOAP\Lab8\Lab8_OOAP\Lab8_OOAP\obj\Debug\net9.0-windows\Lab8_OOAP.dll
+D:\University\OOAP\Lab8\Lab8_OOAP\Lab8_OOAP\obj\Debug\net9.0-windows\refint\Lab8_OOAP.dll
+D:\University\OOAP\Lab8\Lab8_OOAP\Lab8_OOAP\obj\Debug\net9.0-windows\Lab8_OOAP.pdb
+D:\University\OOAP\Lab8\Lab8_OOAP\Lab8_OOAP\obj\Debug\net9.0-windows\Lab8_OOAP.genruntimeconfig.cache
+D:\University\OOAP\Lab8\Lab8_OOAP\Lab8_OOAP\obj\Debug\net9.0-windows\ref\Lab8_OOAP.dll

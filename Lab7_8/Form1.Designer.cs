@@ -15,147 +15,206 @@
 
         private void InitializeComponent()
         {
-            this.grpManual = new System.Windows.Forms.GroupBox();
-            this.cmbDevices = new System.Windows.Forms.ComboBox();
-            this.rbOn = new System.Windows.Forms.RadioButton();
-            this.rbOff = new System.Windows.Forms.RadioButton();
-            this.btnExecuteManual = new System.Windows.Forms.Button();
-            this.dgvSchedule = new System.Windows.Forms.DataGridView();
-            this.btnRunSchedule = new System.Windows.Forms.Button();
-            this.grpUndo = new System.Windows.Forms.GroupBox();
-            this.numSteps = new System.Windows.Forms.NumericUpDown();
-            this.btnUndo = new System.Windows.Forms.Button();
-            this.pnlStatus = new System.Windows.Forms.Panel();
-            this.lblLightStatus = new System.Windows.Forms.Label();
-            this.lblBoilerStatus = new System.Windows.Forms.Label();
-            this.lblACStatus = new System.Windows.Forms.Label();
-            this.lblTitle = new System.Windows.Forms.Label();
-
-            this.grpManual.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvSchedule)).BeginInit();
-            this.grpUndo.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.numSteps)).BeginInit();
-            this.pnlStatus.SuspendLayout();
-            this.SuspendLayout();
-
+            DataGridViewCellStyle dataGridViewCellStyle1 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle2 = new DataGridViewCellStyle();
+            grpManual = new GroupBox();
+            cmbDevices = new ComboBox();
+            rbOn = new RadioButton();
+            rbOff = new RadioButton();
+            btnExecuteManual = new Button();
+            dgvSchedule = new DataGridView();
+            btnRunSchedule = new Button();
+            grpUndo = new GroupBox();
+            numSteps = new NumericUpDown();
+            btnUndo = new Button();
+            pnlStatus = new Panel();
+            lblLightStatus = new Label();
+            lblBoilerStatus = new Label();
+            lblACStatus = new Label();
+            lblTitle = new Label();
+            grpManual.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)dgvSchedule).BeginInit();
+            grpUndo.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)numSteps).BeginInit();
+            pnlStatus.SuspendLayout();
+            SuspendLayout();
             // 
-            // lblTitle
+            // grpManual
             // 
-            this.lblTitle.AutoSize = true;
-            this.lblTitle.Font = new System.Drawing.Font("Segoe UI", 16F, System.Drawing.FontStyle.Bold);
-            this.lblTitle.Location = new System.Drawing.Point(12, 9);
-            this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Text = "Smart Room Control (Command Pattern)";
-
+            grpManual.Controls.Add(cmbDevices);
+            grpManual.Controls.Add(rbOn);
+            grpManual.Controls.Add(rbOff);
+            grpManual.Controls.Add(btnExecuteManual);
+            grpManual.Location = new Point(12, 50);
+            grpManual.Name = "grpManual";
+            grpManual.Size = new Size(200, 180);
+            grpManual.TabIndex = 5;
+            grpManual.TabStop = false;
+            grpManual.Text = "Ручне керування";
             // 
-            // grpManual (Панель керування)
+            // cmbDevices
             // 
-            this.grpManual.Controls.Add(this.cmbDevices);
-            this.grpManual.Controls.Add(this.rbOn);
-            this.grpManual.Controls.Add(this.rbOff);
-            this.grpManual.Controls.Add(this.btnExecuteManual);
-            this.grpManual.Location = new System.Drawing.Point(12, 50);
-            this.grpManual.Name = "grpManual";
-            this.grpManual.Size = new System.Drawing.Size(200, 180);
-            this.grpManual.Text = "Ручне керування";
-
-            this.cmbDevices.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cmbDevices.Location = new System.Drawing.Point(15, 30);
-            this.cmbDevices.Size = new System.Drawing.Size(170, 23);
-
-            this.rbOn.Checked = true;
-            this.rbOn.Location = new System.Drawing.Point(15, 70);
-            this.rbOn.Text = "Увімкнути";
-
-            this.rbOff.Location = new System.Drawing.Point(15, 95);
-            this.rbOff.Text = "Вимкнути";
-
-            this.btnExecuteManual.Location = new System.Drawing.Point(15, 130);
-            this.btnExecuteManual.Size = new System.Drawing.Size(170, 35);
-            this.btnExecuteManual.Text = "Виконати команду";
-            this.btnExecuteManual.UseVisualStyleBackColor = true;
-            this.btnExecuteManual.Click += new System.EventHandler(this.btnExecuteManual_Click);
-
+            cmbDevices.DropDownStyle = ComboBoxStyle.DropDownList;
+            cmbDevices.Location = new Point(15, 30);
+            cmbDevices.Name = "cmbDevices";
+            cmbDevices.Size = new Size(170, 23);
+            cmbDevices.TabIndex = 0;
             // 
-            // dgvSchedule (Таблиця розкладу)
+            // rbOn
             // 
-            this.dgvSchedule.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvSchedule.Location = new System.Drawing.Point(230, 60);
-            this.dgvSchedule.Name = "dgvSchedule";
-            this.dgvSchedule.Size = new System.Drawing.Size(400, 250);
-
+            rbOn.Checked = true;
+            rbOn.Location = new Point(15, 70);
+            rbOn.Name = "rbOn";
+            rbOn.Size = new Size(104, 24);
+            rbOn.TabIndex = 1;
+            rbOn.TabStop = true;
+            rbOn.Text = "Увімкнути";
+            // 
+            // rbOff
+            // 
+            rbOff.Location = new Point(15, 95);
+            rbOff.Name = "rbOff";
+            rbOff.Size = new Size(104, 24);
+            rbOff.TabIndex = 2;
+            rbOff.Text = "Вимкнути";
+            // 
+            // btnExecuteManual
+            // 
+            btnExecuteManual.Location = new Point(15, 130);
+            btnExecuteManual.Name = "btnExecuteManual";
+            btnExecuteManual.Size = new Size(170, 35);
+            btnExecuteManual.TabIndex = 3;
+            btnExecuteManual.Text = "Виконати команду";
+            btnExecuteManual.UseVisualStyleBackColor = true;
+            btnExecuteManual.Click += btnExecuteManual_Click;
+            // 
+            // dgvSchedule
+            // 
+            dataGridViewCellStyle1.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = SystemColors.Control;
+            dataGridViewCellStyle1.Font = new Font("Segoe UI", 9F);
+            dataGridViewCellStyle1.ForeColor = SystemColors.WindowText;
+            dataGridViewCellStyle1.SelectionBackColor = SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = DataGridViewTriState.True;
+            dgvSchedule.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            dgvSchedule.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = SystemColors.Window;
+            dataGridViewCellStyle2.Font = new Font("Segoe UI", 9F);
+            dataGridViewCellStyle2.ForeColor = SystemColors.ControlText;
+            dataGridViewCellStyle2.SelectionBackColor = SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = DataGridViewTriState.False;
+            dgvSchedule.DefaultCellStyle = dataGridViewCellStyle2;
+            dgvSchedule.Location = new Point(230, 60);
+            dgvSchedule.Name = "dgvSchedule";
+            dgvSchedule.Size = new Size(420, 250);
+            dgvSchedule.TabIndex = 4;
             // 
             // btnRunSchedule
             // 
-            this.btnRunSchedule.Location = new System.Drawing.Point(230, 316);
-            this.btnRunSchedule.Size = new System.Drawing.Size(400, 40);
-            this.btnRunSchedule.Text = "Запустити команди з розкладу";
-            this.btnRunSchedule.Click += new System.EventHandler(this.btnRunSchedule_Click);
-
+            btnRunSchedule.Location = new Point(230, 316);
+            btnRunSchedule.Name = "btnRunSchedule";
+            btnRunSchedule.Size = new Size(420, 40);
+            btnRunSchedule.TabIndex = 3;
+            btnRunSchedule.Text = "Запустити команди з розкладу";
+            btnRunSchedule.Click += btnRunSchedule_Click;
             // 
-            // grpUndo (Панель відміни)
+            // grpUndo
             // 
-            this.grpUndo.Controls.Add(this.numSteps);
-            this.grpUndo.Controls.Add(this.btnUndo);
-            this.grpUndo.Location = new System.Drawing.Point(12, 240);
-            this.grpUndo.Name = "grpUndo";
-            this.grpUndo.Size = new System.Drawing.Size(200, 116);
-            this.grpUndo.Text = "Історія операцій";
-
-            this.numSteps.Location = new System.Drawing.Point(15, 30);
-            this.numSteps.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
-            this.numSteps.Value = new decimal(new int[] { 1, 0, 0, 0 });
-
-            this.btnUndo.Location = new System.Drawing.Point(15, 65);
-            this.btnUndo.Size = new System.Drawing.Size(170, 35);
-            this.btnUndo.Text = "Undo (Відмінити)";
-            this.btnUndo.Click += new System.EventHandler(this.btnUndo_Click);
-
+            grpUndo.Controls.Add(numSteps);
+            grpUndo.Controls.Add(btnUndo);
+            grpUndo.Location = new Point(12, 240);
+            grpUndo.Name = "grpUndo";
+            grpUndo.Size = new Size(200, 116);
+            grpUndo.TabIndex = 2;
+            grpUndo.TabStop = false;
+            grpUndo.Text = "Історія операцій";
             // 
-            // pnlStatus (Нижня панель статусів)
+            // numSteps
             // 
-            this.pnlStatus.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.pnlStatus.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pnlStatus.Controls.Add(this.lblLightStatus);
-            this.pnlStatus.Controls.Add(this.lblBoilerStatus);
-            this.pnlStatus.Controls.Add(this.lblACStatus);
-            this.pnlStatus.Location = new System.Drawing.Point(0, 380);
-            this.pnlStatus.Name = "pnlStatus";
-            this.pnlStatus.Size = new System.Drawing.Size(650, 50);
-
-            this.lblLightStatus.Location = new System.Drawing.Point(10, 15);
-            this.lblLightStatus.Size = new System.Drawing.Size(150, 20);
-            this.lblLightStatus.Text = "● Світло: ---";
-
-            this.lblBoilerStatus.Location = new System.Drawing.Point(220, 15);
-            this.lblBoilerStatus.Size = new System.Drawing.Size(150, 20);
-            this.lblBoilerStatus.Text = "● Котел: ---";
-
-            this.lblACStatus.Location = new System.Drawing.Point(430, 15);
-            this.lblACStatus.Size = new System.Drawing.Size(200, 20);
-            this.lblACStatus.Text = "● Кондиціонер: ---";
-
+            numSteps.Location = new Point(15, 30);
+            numSteps.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
+            numSteps.Name = "numSteps";
+            numSteps.Size = new Size(120, 23);
+            numSteps.TabIndex = 0;
+            numSteps.Value = new decimal(new int[] { 1, 0, 0, 0 });
+            // 
+            // btnUndo
+            // 
+            btnUndo.Location = new Point(15, 65);
+            btnUndo.Name = "btnUndo";
+            btnUndo.Size = new Size(170, 35);
+            btnUndo.TabIndex = 1;
+            btnUndo.Text = "Undo (Відмінити)";
+            btnUndo.Click += btnUndo_Click;
+            // 
+            // pnlStatus
+            // 
+            pnlStatus.BackColor = Color.WhiteSmoke;
+            pnlStatus.BorderStyle = BorderStyle.FixedSingle;
+            pnlStatus.Controls.Add(lblLightStatus);
+            pnlStatus.Controls.Add(lblBoilerStatus);
+            pnlStatus.Controls.Add(lblACStatus);
+            pnlStatus.Location = new Point(0, 380);
+            pnlStatus.Name = "pnlStatus";
+            pnlStatus.Size = new Size(650, 50);
+            pnlStatus.TabIndex = 1;
+            // 
+            // lblLightStatus
+            // 
+            lblLightStatus.Location = new Point(10, 15);
+            lblLightStatus.Name = "lblLightStatus";
+            lblLightStatus.Size = new Size(150, 20);
+            lblLightStatus.TabIndex = 0;
+            lblLightStatus.Text = "● Світло: ---";
+            // 
+            // lblBoilerStatus
+            // 
+            lblBoilerStatus.Location = new Point(220, 15);
+            lblBoilerStatus.Name = "lblBoilerStatus";
+            lblBoilerStatus.Size = new Size(150, 20);
+            lblBoilerStatus.TabIndex = 1;
+            lblBoilerStatus.Text = "● Котел: ---";
+            // 
+            // lblACStatus
+            // 
+            lblACStatus.Location = new Point(430, 15);
+            lblACStatus.Name = "lblACStatus";
+            lblACStatus.Size = new Size(200, 20);
+            lblACStatus.TabIndex = 2;
+            lblACStatus.Text = "● Кондиціонер: ---";
+            // 
+            // lblTitle
+            // 
+            lblTitle.AutoSize = true;
+            lblTitle.Font = new Font("Segoe UI", 16F, FontStyle.Bold);
+            lblTitle.Location = new Point(12, 9);
+            lblTitle.Name = "lblTitle";
+            lblTitle.Size = new Size(435, 30);
+            lblTitle.TabIndex = 0;
+            lblTitle.Text = "Smart Room Control (Command Pattern)";
             // 
             // MainForm
             // 
-            this.ClientSize = new System.Drawing.Size(644, 431);
-            this.Controls.Add(this.lblTitle);
-            this.Controls.Add(this.pnlStatus);
-            this.Controls.Add(this.grpUndo);
-            this.Controls.Add(this.btnRunSchedule);
-            this.Controls.Add(this.dgvSchedule);
-            this.Controls.Add(this.grpManual);
-            this.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.Name = "MainForm";
-            this.Text = "Smart Home System";
-            this.grpManual.ResumeLayout(false);
-            this.grpManual.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvSchedule)).EndInit();
-            this.grpUndo.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.numSteps)).EndInit();
-            this.pnlStatus.ResumeLayout(false);
-            this.ResumeLayout(false);
-            this.PerformLayout();
+            ClientSize = new Size(693, 431);
+            Controls.Add(lblTitle);
+            Controls.Add(pnlStatus);
+            Controls.Add(grpUndo);
+            Controls.Add(btnRunSchedule);
+            Controls.Add(dgvSchedule);
+            Controls.Add(grpManual);
+            Font = new Font("Segoe UI", 9F);
+            Name = "MainForm";
+            Text = "Smart Home System";
+            grpManual.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)dgvSchedule).EndInit();
+            grpUndo.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)numSteps).EndInit();
+            pnlStatus.ResumeLayout(false);
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         private System.Windows.Forms.GroupBox grpManual;

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\University\\OOAP\\Lab7\\Lab7_8\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{062A1A4E-22FD-8EFC-1620-B1A99EC1104D}|Lab7_8.csproj|d:\\university\\ooap\\lab7\\lab7_8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062A1A4E-22FD-8EFC-1620-B1A99EC1104D}|Lab7_8.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{062A1A4E-22FD-8EFC-1620-B1A99EC1104D}|Lab7_8.csproj|d:\\university\\ooap\\lab7\\lab7_8\\remotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{062A1A4E-22FD-8EFC-1620-B1A99EC1104D}|Lab7_8.csproj|solutionrelative:remotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,8 +23,8 @@
       "RelativeMoniker": "D:0:0:{062A1A4E-22FD-8EFC-1620-B1A99EC1104D}|Lab7_8.csproj|solutionrelative:icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{062A1A4E-22FD-8EFC-1620-B1A99EC1104D}|Lab7_8.csproj|d:\\university\\ooap\\lab7\\lab7_8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{062A1A4E-22FD-8EFC-1620-B1A99EC1104D}|Lab7_8.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{062A1A4E-22FD-8EFC-1620-B1A99EC1104D}|Lab7_8.csproj|D:\\University\\OOAP\\Lab7\\Lab7_8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{062A1A4E-22FD-8EFC-1620-B1A99EC1104D}|Lab7_8.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,13 +46,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_8\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_8\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:37:36.796Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_8\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_8\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T17:42:46.049Z",
               "EditorCaption": ""
@@ -56,53 +72,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ICommand.cs",
-              "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_8\\ICommand.cs",
-              "RelativeDocumentMoniker": "ICommand.cs",
-              "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_8\\ICommand.cs",
-              "RelativeToolTip": "ICommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T17:42:32.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "DeviceCommand.cs",
               "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_8\\DeviceCommand.cs",
               "RelativeDocumentMoniker": "DeviceCommand.cs",
               "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_8\\DeviceCommand.cs",
               "RelativeToolTip": "DeviceCommand.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA0AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T17:42:31.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SmartDevice.cs",
               "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_8\\SmartDevice.cs",
               "RelativeDocumentMoniker": "SmartDevice.cs",
               "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_8\\SmartDevice.cs",
               "RelativeToolTip": "SmartDevice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T17:42:33.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RemoteControl.cs",
               "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_8\\RemoteControl.cs",
               "RelativeDocumentMoniker": "RemoteControl.cs",
               "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_8\\RemoteControl.cs",
               "RelativeToolTip": "RemoteControl.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T17:42:32.764Z",
+              "WhenOpened": "2026-03-05T17:37:32.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab7\\Lab7_8\\ICommand.cs",
+              "RelativeDocumentMoniker": "ICommand.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab7\\Lab7_8\\ICommand.cs",
+              "RelativeToolTip": "ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:42:32.21Z",
               "EditorCaption": ""
             }
           ]

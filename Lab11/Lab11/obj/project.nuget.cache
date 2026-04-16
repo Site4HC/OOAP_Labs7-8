@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "19Nsy+kZ0mQ=",
+  "success": true,
+  "projectFilePath": "D:\\University\\OOAP\\Lab11\\Lab11\\Lab11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\romko\\.nuget\\packages\\htmlagilitypack\\1.12.4\\htmlagilitypack.1.12.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\OOAP\\Lab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBD34D1-263C-4C23-8DF9-85B848C07C3C}|Lab9_OOAP\\Lab9_OOAP.csproj|d:\\university\\ooap\\lab10\\lab9_ooap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBD34D1-263C-4C23-8DF9-85B848C07C3C}|Lab9_OOAP\\Lab9_OOAP.csproj|solutionrelative:lab9_ooap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBD34D1-263C-4C23-8DF9-85B848C07C3C}|Lab9_OOAP\\Lab9_OOAP.csproj|d:\\university\\ooap\\lab10\\lab9_ooap\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBD34D1-263C-4C23-8DF9-85B848C07C3C}|Lab9_OOAP\\Lab9_OOAP.csproj|solutionrelative:lab9_ooap\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBD34D1-263C-4C23-8DF9-85B848C07C3C}|Lab9_OOAP\\Lab9_OOAP.csproj|d:\\university\\ooap\\lab10\\lab9_ooap\\iscenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBD34D1-263C-4C23-8DF9-85B848C07C3C}|Lab9_OOAP\\Lab9_OOAP.csproj|solutionrelative:lab9_ooap\\iscenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBD34D1-263C-4C23-8DF9-85B848C07C3C}|Lab9_OOAP\\Lab9_OOAP.csproj|d:\\university\\ooap\\lab10\\lab9_ooap\\riverscenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBD34D1-263C-4C23-8DF9-85B848C07C3C}|Lab9_OOAP\\Lab9_OOAP.csproj|solutionrelative:lab9_ooap\\riverscenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBD34D1-263C-4C23-8DF9-85B848C07C3C}|Lab9_OOAP\\Lab9_OOAP.csproj|d:\\university\\ooap\\lab10\\lab9_ooap\\forestscenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBD34D1-263C-4C23-8DF9-85B848C07C3C}|Lab9_OOAP\\Lab9_OOAP.csproj|solutionrelative:lab9_ooap\\forestscenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBD34D1-263C-4C23-8DF9-85B848C07C3C}|Lab9_OOAP\\Lab9_OOAP.csproj|d:\\university\\ooap\\lab10\\lab9_ooap\\darkforestscenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBD34D1-263C-4C23-8DF9-85B848C07C3C}|Lab9_OOAP\\Lab9_OOAP.csproj|solutionrelative:lab9_ooap\\darkforestscenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBD34D1-263C-4C23-8DF9-85B848C07C3C}|Lab9_OOAP\\Lab9_OOAP.csproj|d:\\university\\ooap\\lab10\\lab9_ooap\\mountainscenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBD34D1-263C-4C23-8DF9-85B848C07C3C}|Lab9_OOAP\\Lab9_OOAP.csproj|solutionrelative:lab9_ooap\\mountainscenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBD34D1-263C-4C23-8DF9-85B848C07C3C}|Lab9_OOAP\\Lab9_OOAP.csproj|d:\\university\\ooap\\lab10\\lab9_ooap\\artifact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBD34D1-263C-4C23-8DF9-85B848C07C3C}|Lab9_OOAP\\Lab9_OOAP.csproj|solutionrelative:lab9_ooap\\artifact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab10\\Lab9_OOAP\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab9_OOAP\\Form1.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab10\\Lab9_OOAP\\Form1.cs",
+              "RelativeToolTip": "Lab9_OOAP\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T19:13:38.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RiverScenario.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab10\\Lab9_OOAP\\RiverScenario.cs",
+              "RelativeDocumentMoniker": "Lab9_OOAP\\RiverScenario.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab10\\Lab9_OOAP\\RiverScenario.cs",
+              "RelativeToolTip": "Lab9_OOAP\\RiverScenario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T19:13:27.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForestScenario.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab10\\Lab9_OOAP\\ForestScenario.cs",
+              "RelativeDocumentMoniker": "Lab9_OOAP\\ForestScenario.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab10\\Lab9_OOAP\\ForestScenario.cs",
+              "RelativeToolTip": "Lab9_OOAP\\ForestScenario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T19:13:25.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DarkForestScenario.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab10\\Lab9_OOAP\\DarkForestScenario.cs",
+              "RelativeDocumentMoniker": "Lab9_OOAP\\DarkForestScenario.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab10\\Lab9_OOAP\\DarkForestScenario.cs",
+              "RelativeToolTip": "Lab9_OOAP\\DarkForestScenario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T19:13:24.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MountainScenario.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab10\\Lab9_OOAP\\MountainScenario.cs",
+              "RelativeDocumentMoniker": "Lab9_OOAP\\MountainScenario.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab10\\Lab9_OOAP\\MountainScenario.cs",
+              "RelativeToolTip": "Lab9_OOAP\\MountainScenario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:58:01.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab10\\Lab9_OOAP\\Unit.cs",
+              "RelativeDocumentMoniker": "Lab9_OOAP\\Unit.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab10\\Lab9_OOAP\\Unit.cs",
+              "RelativeToolTip": "Lab9_OOAP\\Unit.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T19:13:28.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IScenario.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab10\\Lab9_OOAP\\IScenario.cs",
+              "RelativeDocumentMoniker": "Lab9_OOAP\\IScenario.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab10\\Lab9_OOAP\\IScenario.cs",
+              "RelativeToolTip": "Lab9_OOAP\\IScenario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:58:02.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Artifact.cs",
+              "DocumentMoniker": "D:\\University\\OOAP\\Lab10\\Lab9_OOAP\\Artifact.cs",
+              "RelativeDocumentMoniker": "Lab9_OOAP\\Artifact.cs",
+              "ToolTip": "D:\\University\\OOAP\\Lab10\\Lab9_OOAP\\Artifact.cs",
+              "RelativeToolTip": "Lab9_OOAP\\Artifact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T19:13:24.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
